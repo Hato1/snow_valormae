@@ -1,0 +1,19 @@
+---
+format: html
+page-layout: full
+---
+
+<style>
+  body {
+  background-image: url("snow_bg.png");
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
+
+# ㅤ
+# ㅤ
+# <font color="#800080">Snow Valormae</font>
+<button type="About">About</button><button type="Contact">Contact</button>

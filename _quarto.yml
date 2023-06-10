@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Snow Valormae"
+  navbar:
+    left:
+      # - href: index.qmd
+      - about.qmd
+      - contact.qmd
+    right:
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=100089887522806
+      - icon: twitter
+        href: https://twitter.com
+      - icon: instagram
+        href: https://www.instagram.com/valormae_music
+
+  search: false
+
+format:
+  html:
+    # theme: cyborg
+    theme: lux
+    # theme: sketchy
+    # theme: vapor
+    css: styles.css
+    toc: false
+
+execute:
+  freeze: auto
