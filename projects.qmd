@@ -1,0 +1,24 @@
+---
+# title: "Projects"
+listing: 
+  contents: "projects/"
+  type: grid
+  grid-item-border: false
+  grid-columns: 3
+fontcolor: "#CED4EA"
+---
+
+<style>
+  body {
+/*  background-image: url("snow_bg.png");*/
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+</style>
+
+<font color="#CED4EA">
+Projects<br>
+This is an opportunity to showcase your past work.<br>
+Lorem ipsum dolor sit amet!
+</font>

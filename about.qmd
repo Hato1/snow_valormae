@@ -1,7 +1,20 @@
 ---
-title: "about"  # Bio?
+format: html
+# title: "about"  # Bio?
+fontcolor: "white"
 ---
 
+
+<style>
+  body {
+  background-image: url("snow_about_darker.png");
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
+# <font color="#FFFFFF">About<br>
 Snow Valormae is an accomplished guitarist and composer hailing from the beautiful city of Christchurch in Aotearoa New Zealand. With a diverse musical background and a passion for pushing boundaries, Snow's artistic journey has been nothing short of extraordinary.
 
 Having graduated from the University of Canterbury, Snow Valormae's musical style is a captivating fusion of various genres, including metal, rock, jazz, and classical. It is this amalgamation of influences that lends her music a truly unique and compelling quality. While Snow possesses the remarkable ability to traverse different musical landscapes, her heart truly lies in composing and performing progressive metal music, as well as arranging jazz compositions.
@@ -9,3 +22,4 @@ Having graduated from the University of Canterbury, Snow Valormae's musical styl
 Currently, Snow Valormae is an integral member of the esteemed All Girls Big Band, lending her exceptional guitar skills to their mesmerizing sound. In addition to her collaborative work, Snow is engaged in two exciting projects behind the scenes. She is diligently working on an instrumental progressive metal project that promises to push the boundaries of the genre, and simultaneously exploring the realms of jazz with her talented jazz trio.
 
 This website serves as a window into her artistic world, providing a glimpse into her musical endeavors, inspirations, and upcoming projects. Stay tuned for updates, sample her captivating compositions, and witness the evolution of an artist dedicated to pushing the boundaries of musical expression.
+</font>

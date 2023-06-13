@@ -6,13 +6,17 @@ website:
   navbar:
     left:
       # - href: index.qmd
-      - about.qmd
-      - contact.qmd
+      - text: about
+        file: about.qmd
+      - text: projects
+        file: projects.qmd
+      - text: gallery
+        file: gallery.qmd
+      - text: contact
+        file: contact.qmd
     right:
       - icon: facebook
         href: https://www.facebook.com/profile.php?id=100089887522806
-      - icon: twitter
-        href: https://twitter.com
       - icon: instagram
         href: https://www.instagram.com/valormae_music
 
@@ -26,6 +30,7 @@ format:
     # theme: vapor
     css: styles.css
     toc: false
+
 
 execute:
   freeze: auto

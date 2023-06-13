@@ -1,6 +1,53 @@
 ---
-title: "Contact"
+page-layout: "custom"
+fontcolor: "#CED4EA"
+linkcolor: "#FFFFFF"
+
 ---
 
-Email me at [Insert Email Here] and I'll get back to you shortly.
-Alternatively, message the social medias linked in the top navigation bar.
+<style>
+  body {
+  background-image: url("contact_dark.png");
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+</style>
+
+::: {.grid}
+
+::: {.g-col-1}
+
+:::
+
+::: {.g-col-3}
+
+# <font color="#CED4EA">Contact</font>
+
+<font color="#CED4EA">
+Thank you for your interest in my music! If you're looking to hire a talented musician for your event or project, I would love to hear from you. Please feel free to get in touch using the contact information below. I am available for live performances, studio recording sessions, collaborations, and other musical endeavors.
+
+<font color="#CED4EA">[Email](mailto:snow@fake-email.com)<br></font>
+[Facebook](https://www.facebook.com/profile.php?id=100089887522806)<br>
+[Instagram](https://www.instagram.com/valormae_music)<br>
+
+Please include some details about your event or project, such as the date, location, and any specific requirements you may have. This will help me understand your needs better and provide you with a tailored response.
+
+Additionally, I am open to discussing any ideas or special requests you may have. Whether you're organizing a wedding, corporate function, private party, or any other occasion that calls for live music, I am committed to creating a memorable experience for you and your guests.
+
+I strive to respond to all inquiries promptly, typically within 24-48 hours. However, please note that during busy periods, it may take a little longer for me to get back to you. Rest assured, your message is important to me, and I will make every effort to get in touch with you as soon as possible.
+</font>
+
+:::
+
+::: {.g-col-6}
+
+
+
+:::
+
+:::
+
+
+
+

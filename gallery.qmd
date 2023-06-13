@@ -1,0 +1,43 @@
+---
+page-layout: custom
+fontcolor: "#CED4EA"
+---
+# <font color="#CED4EA">Gallery</font>
+<br>
+
+<style>
+  div {
+    text-align: center;
+  }
+</style>
+
+::: {.grid}
+
+::: {.g-col-0}
+
+<img src="photos/snow_1.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="photos/snow_2.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="photos/snow_3.jpg" alt="Italian Trulli" style="width:49vw;">
+
+
+:::
+
+::: {.g-col-0}
+
+<img src="photos/snow_4.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="photos/snow_5.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="photos/snow_6.jpg" alt="Italian Trulli" style="width:49vw;">
+
+
+:::
+
+:::
+
+<style>
+  body {
+/*  background-image: url("snow_bg.png");*/
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+</style>
