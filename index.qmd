@@ -13,9 +13,17 @@ page-layout: full
   
 </style>
 
-# ㅤ
-# ㅤ
-<!-- # <font color="#800080">Snow Valormae</font> -->
+<br>
+
+
+<br>
+
+
+<br>
+
+<br>
+
+
 # <font color="#CED4EA">Snow Valormae</font>
 <button type="button" onclick="window.location.href='about.html';" class="btn btn-outline-secondary">About</button>
 <button type="button" onclick="window.location.href='contact.html';" class="btn btn-outline-secondary">Contact</button>
