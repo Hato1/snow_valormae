@@ -27,9 +27,15 @@ linkcolor: "#FFFFFF"
 <font color="#CED4EA">
 Thank you for your interest in my music! If you're looking to hire a talented musician for your event or project, I would love to hear from you. Please feel free to get in touch using the contact information below. I am available for live performances, studio recording sessions, collaborations, and other musical endeavors.
 
-<font color="#CED4EA">[Email](mailto:snow@fake-email.com)<br></font>
+<!-- [Email](mailto:snow@fake-email.com)<br>
 [Facebook](https://www.facebook.com/profile.php?id=100089887522806)<br>
-[Instagram](https://www.instagram.com/valormae_music)<br>
+[Instagram](https://www.instagram.com/valormae_music)<br> -->
+
+<button type="button" onclick="window.location.href='mailto:snow@fake-email.com';" class="btn btn-outline-secondary">Email</button>
+<button type="button" onclick="window.location.href='https://www.facebook.com/profile.php?id=100089887522806';" class="btn btn-outline-secondary">Facebook</button>
+<button type="button" onclick="window.location.href='https://www.instagram.com/valormae_music';" class="btn btn-outline-secondary">Instagram</button>
+<br>
+
 
 Please include some details about your event or project, such as the date, location, and any specific requirements you may have. This will help me understand your needs better and provide you with a tailored response.
 
