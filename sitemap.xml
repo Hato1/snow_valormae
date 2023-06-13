@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://valormae.com/contact.html</loc>
-    <lastmod>2023-06-12T12:14:50.588Z</lastmod>
+    <lastmod>2023-06-13T01:46:12.795Z</lastmod>
+  </url>
+  <url>
+    <loc>https://valormae.com/projects.html</loc>
+    <lastmod>2023-06-13T01:46:13.467Z</lastmod>
   </url>
   <url>
     <loc>https://valormae.com/index.html</loc>
-    <lastmod>2023-06-12T12:14:50.859Z</lastmod>
+    <lastmod>2023-06-13T01:46:14.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://valormae.com/gallery.html</loc>
+    <lastmod>2023-06-13T01:46:14.652Z</lastmod>
   </url>
   <url>
     <loc>https://valormae.com/about.html</loc>
-    <lastmod>2023-06-12T12:14:51.121Z</lastmod>
+    <lastmod>2023-06-13T01:46:15.241Z</lastmod>
   </url>
 </urlset>
