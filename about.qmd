@@ -16,8 +16,6 @@ fontcolor: "white"
 </style>
 # <font color="#FFFFFF">About<br>
 
-This website serves as a window into her artistic world, providing a glimpse into her musical endeavors, inspirations, and upcoming projects. Stay tuned for updates, sample her captivating compositions, and witness the evolution of an artist dedicated to pushing the boundaries of musical expression.
-
 Snow Valormae is a guitarist and composer based in the picturesque city of Christchurch, Aotearoa New Zealand. With a diverse musical background and a deep passion for exploring different genres, Snow's artistic journey has been a source of incredible inspiration.
 
 Having completed her studies at the University of Canterbury, Snow Valormae's musical style is an intriguing blend of various genres, including metal, rock, jazz, and classical. Drawing from these diverse influences, she brings a unique and personal touch to her music. While Snow is skilled in playing multiple genres, her heart lies in composing and performing progressive metal music, as well as arranging jazz compositions.
