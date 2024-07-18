@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "snow-valormae"
+version = "0.1.0"
+description = ""
+authors = ["Jacob Rogers <jacob.p.r@hotmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "~3.12"
+quarto = "^0.1.0"
+quarto-cli = "^1.5.54"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
