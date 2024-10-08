@@ -1,0 +1,109 @@
+# Guitar & Theory Tutoring
+<style>
+.container {
+	z-index: 1;
+	/* background: white; */
+	padding: 2em;
+}
+blockquote {
+	padding: 2em 1.5em 2em 2em;
+	position: relative;
+	color: #999;
+}
+blockquote p {
+	color: #555;
+}
+@media screen and (min-width: 300px) {
+ blockquote {
+ border: 1px solid gray;
+}
+ blockquote:before, blockquote:after {
+ background-color:white;
+ font-size: 3em;
+ font-weight: 800;
+ position: absolute;
+ z-index: 20;
+}
+ blockquote:before {
+ content: "\201D";
+ width: 34px;
+ height: 31px;
+ left: -8px;
+ top: -25px;
+}
+ blockquote:after {
+ content: "\201C";
+ width: 31px;
+ height: 37px;
+ right: -20px;
+ bottom: -7px;
+}
+}
+blockquote cite {
+	font-size: 14px;
+	margin-top: 5px;
+	margin-bottom: -7px;
+}
+blockquote cite:before {
+	content:"\2014 \2009";
+}
+</style>
+
+<div>
+![](assets/photos/teaching.jpg){style="float: right;" fig-alt="teaching" fig-align="left" width="500"}
+<!-- ![](assets/photos/headshot.jpg){style="float: right;" fig-alt="headshot" fig-align="right" width="250"} -->
+
+Snow offers private guitar tutoring with a focus on a diverse range of genres, including metal, jazz, classical, blues, prog and rock. Whether students are beginners or looking to refine their skills, Snow provides personalized lessons tailored to their interests, covering everything from technique, improvisation, music theory and notation reading. 
+</div>
+<br>
+<br>
+
+<div class="container">
+  <blockquote>
+    <p>Snow has been tutoring my daughter Zoe for nearly 2 years now and we couldn’t be happier. Her progress has been rapid with Snow as she is so accomplished in all areas of guitar playing. Zoe continues to be inspired and works hard. Snow is a reliable and dedicated tutor.</p>
+    <footer> <cite>Vikki Hart – Parent</cite> </footer>
+  </blockquote>
+</div>
+<div class="container">
+  <blockquote>
+    <p>Snow Valormae is a fantastic music teacher who has helped me understand guitar modes, tonality, and how to use them smoothly. She has greatly improved my sight-reading skills and taught me to recognize melodies and riffs in different genres, from pop to metal. Her explanations are clear and easy to follow, yet still detailed enough for more experienced players.</p>
+    <footer> <cite>Flynn Greaves – Guitar & Theory Student</cite> </footer>
+  </blockquote>
+</div>
+
+# Composing and Arranging
+
+![](assets/photos/composition.jpg){style="float: right;" fig-alt="rig-building" fig-align="left" width="500"}
+
+Snow composes intricate prog metal instrumentals for her solo project ‘Valormae’ and arranges complex jazz charts, blending technical virtuosity with creative expression. Her work spans dynamic compositions and detailed arrangements, showcasing a deep understanding of both genres. She has recently won an honorary mention award for her song ‘Anxious Atrium’ in the Instrumental section of the Unsigned Only song writing competition.
+
+# Rig building (Pedalboards)
+
+<div>
+![](assets/photos/rig-building.jpg){style="float: right;" fig-alt="rig-building" fig-align="left" width="500"}
+
+Snow's experience as a rig builder for guitar pedalboards includes expertise in soldering, MIDI programming, and understanding signal paths. Her setups are known for being quiet, power-managed, and seamlessly integrated to ensure reliable performance.
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Guitar Setups
+
+Snow Valormae is an experienced guitar tech, specializing in guitar setups with floating bridges and traditional guitars. She is skilled in fret leveling and wiring pickups, ensuring that each instrument is perfectly tailored for peak performance and playability. 
+
+<div class="container">
+  <blockquote>
+    <p>I was looking for someone to help set up for drop tuning when I was put onto Snow. She did a great job of setting up my guitar, and it felt even better to play while being well set for accurate tuning for tracking an album worth of material. She had a bunch of really helpful tips, and offered any further adjustments if needed. I strongly recommend Snow if you're looking for help with your guitar!</p>
+    <footer> <cite>Richie Jehan - Elidi</cite> </footer>
+  </blockquote>
+</div>
+
+# Performer
+
+![](assets/performing/13.jpg){fig-alt="performing" fig-align="left" width="1000"}
+
+Snow Valormae is a versatile performer, equally skilled in accompanying others and taking the spotlight with solo performances. Her diverse abilities and improvisational skills enable her to adapt comfortably to various musical settings, whether performing alone or with others.

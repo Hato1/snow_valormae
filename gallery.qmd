@@ -1,8 +1,26 @@
 ---
 page-layout: custom
-fontcolor: "#CED4EA"
 ---
-# <font color="#CED4EA">Gallery</font>
+
+<style>
+.strokeme {
+  /* color: white; */
+  /* background-color: white; */
+  /* text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; */
+  /* webkit-text-fill-color: transparent;
+  webkit-text-stroke: 1px; */
+  text-shadow: #000 0px 0px 10px;
+  -webkit-font-smoothing: antialiased;
+}
+/* h1 {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px;
+} */
+</style>
+
+<div class="strokeme">
+# <font color="#000000">Gallery</font>
+</div>
 <br>
 
 <style>
@@ -15,29 +33,44 @@ fontcolor: "#CED4EA"
 
 ::: {.g-col-0}
 
-<img src="photos/snow_1.jpg" alt="Italian Trulli" style="width:49vw;">
-<img src="photos/snow_2.jpg" alt="Italian Trulli" style="width:49vw;">
-<img src="photos/snow_3.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/gallery/snow_1.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/gallery/snow_2.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/gallery/snow_3.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/1.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/3.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/5.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/7.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/9.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/11.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/15.jpg" alt="Italian Trulli" style="width:49vw;">
 
 
 :::
 
 ::: {.g-col-0}
 
-<img src="photos/snow_4.jpg" alt="Italian Trulli" style="width:49vw;">
-<img src="photos/snow_5.jpg" alt="Italian Trulli" style="width:49vw;">
-<img src="photos/snow_6.jpg" alt="Italian Trulli" style="width:49vw;">
-
+<img src="assets/gallery/snow_4.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/gallery/snow_5.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/2.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/4.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/6.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/8.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/10.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/12.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/13.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/14.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/16.jpg" alt="Italian Trulli" style="width:49vw;">
+<img src="assets/performing/17.jpg" alt="Italian Trulli" style="width:49vw;">
 
 :::
 
 :::
 
-<style>
+<!-- <style>
   body {
 /*  background-image: url("snow_bg.png");*/
   background-color: black;
   background-size: cover;
   background-repeat: no-repeat;
 }
-</style>
+</style> -->

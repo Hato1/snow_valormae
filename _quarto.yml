@@ -1,15 +1,22 @@
 project:
   type: website
+  preview:
+    host: 0.0.0.0 # 192.168.1.9
+    port: 7777
 
 website:
-  title: "Snow Valormae"
+  title: ""
+  favicon: "assets/logo.png"
   navbar:
+    logo: "assets/home.png"
     left:
       # - href: index.qmd
       - text: about
         file: about.qmd
-      - text: projects
-        file: projects.qmd
+      - text: valormae
+        file: valormae.qmd
+      - text: expertise
+        file: expertise.qmd
       - text: gallery
         file: gallery.qmd
       - text: contact
@@ -19,6 +26,10 @@ website:
         href: https://www.facebook.com/profile.php?id=100089887522806
       - icon: instagram
         href: https://www.instagram.com/valormae_music
+      - icon: youtube
+        href: https://www.youtube.com/@Valormae
+      - icon: spotify
+        href: https://open.spotify.com/artist/5LhJ6IbwHXf4joDrFj6scB?si=rDpGtycSTEiRGejD7KStRw
 
   search: false
 

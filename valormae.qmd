@@ -1,0 +1,17 @@
+---
+# title: "Projects"
+listing: 
+  contents: "projects/"
+  type: grid
+  grid-item-border: false
+  grid-columns: 3
+---
+
+![](assets/valormae-logo.png){fig-alt="headshot" fig-align="center"}
+
+
+Valormae is a guitarist and composer with a background in classical and jazz music. Passionate about technical prog metal, Valormae blends the harmonic richness of jazz with the thoughtful compositional techniques of classical music. The result is a unique sound that highlights both intricate musicianship and expressive depth. Through a blend of genres and styles, Valormae offers listeners a musical experience that is both technically engaging and artistically compelling.
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/08ynbFNVDeA2ST1pPRv7Iy?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4MunqwAAseDQMIznA3KHOq?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -1,25 +1,20 @@
 ---
 format: html
 # title: "about"  # Bio?
-fontcolor: "white"
+# fontcolor: "white"
 ---
 
+# About
 
-<style>
-  body {
-  background-image: url("snow_about_darker.png");
-  background-color: black;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-  
-</style>
-# <font color="#FFFFFF">About<br>
+![](assets/photos/headshot.jpg){style="float: right;" fig-alt="headshot" fig-align="right" width="250"}
 
-Snow Valormae is a guitarist and composer based in the picturesque city of Christchurch, Aotearoa New Zealand. With a diverse musical background and a deep passion for exploring different genres, Snow's artistic journey has been a source of incredible inspiration.
+Snow Valormae is a guitarist and composer based in the picturesque city of Christchurch, Aotearoa New Zealand. With a deep passion for exploring different genres, her artistic journey has been a source of passion and inspiration.
 
-Having completed her studies at the University of Canterbury, Snow Valormae's musical style is an intriguing blend of various genres, including metal, rock, jazz, and classical. Drawing from these diverse influences, she brings a unique and personal touch to her music. While Snow is skilled in playing multiple genres, her heart lies in composing and performing progressive metal music, as well as arranging jazz compositions.
+Having completed her studies at the University of Canterbury, Snow Valormae’s musical style is an intriguing blend of various genres, including metal, rock, jazz, and classical. While she draws from these diverse influences, her true passion lies in composing and performing instrumental progressive metal, where she pushes the boundaries of the genre with her unique and personal touch.
 
-Snow Valormae is currently an active member of the All Girls Big Band, contributing her guitar skills to create a harmonious and captivating sound. Additionally, she is working on two exciting projects behind the scenes. One project focuses on instrumental progressive metal, aiming to explore new boundaries within the genre, while the other project involves a jazz trio, where Snow delves into the expressive world of jazz arrangements.
+Snow not only composes and performs for her own solo progressive metal project, Valormae, where she delves into the intricate and powerful realms of instrumental music, but she also brings her versatile guitar skills to the Christchurch All Girls Big Band. As a key member of this ensemble, Snow contributes to creating a harmonious and captivating sound that blends traditional jazz elements with modern flair.
 
+Snow is a graduate of the University of Canterbury, holding a Bachelor’s degree in Music, and was awarded the prestigious 2017 Academic Award for the Leigh and Judith Pownall Prizes in Music. Her academic journey was defined by a focus on extended range guitar performance and composition, particularly with the 8-string guitar. Snow embraced a diverse range of performance styles, studying jazz, classical, and contemporary approaches. Her compositional studies were centered on classical compositional philosophy and jazz harmony, which she used as foundational tools to write modern progressive contemporary music, creating a unique and innovative voice in her work.
+ 
+Snow has moved on to win the Instrumental category of the Unsigned Only Music Competition with her original composition "Anxious Atrium." This achievement is a testament to her ability to combine technical ability with bold, forward-thinking musical ideas.
 </font>

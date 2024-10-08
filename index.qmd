@@ -1,31 +1,40 @@
 ---
 format: html
-page-layout: full
+page-layout: custom
 ---
 
 <style>
-  body {
-  background-image: url("snow_bg.png"), url("conk_dark.png");
-  background-color: black;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-  
+  div {
+    text-align: center;
+  }
+
+  .justify {
+    text-align: justify;
+    text-align-last: justify;
+    text-justify: inter-character;
+    width: 95vW;
+    padding: 5vW;
+    margin: 0 auto;
+    font-size: 60px;
+  }
 </style>
 
-<br>
-
-
-<br>
 
 
 <br>
 
 <br>
 
+<div class="justify">
+<u><font color="black">S n o w • V a l o r m a e</font></u>
+</div>
 
-# <font color="#CED4EA">Snow Valormae</font>
-<button type="button" onclick="window.location.href='about.html';" class="btn btn-outline-secondary">About</button>
-<button type="button" onclick="window.location.href='contact.html';" class="btn btn-outline-secondary">Contact</button>
+![](assets/logo.png){fig-alt="performing" fig-align="center" width="300"}
+
+
+# Guitar & Music Theory Tutor
+# Composer & Performer
+<!-- <button type="button" onclick="window.location.href='about.html';" class="btn btn-outline-secondary">About</button>
+<button type="button" onclick="window.location.href='contact.html';" class="btn btn-outline-secondary">Contact</button> -->
 
 
