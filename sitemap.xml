@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://valormae.com/projects.html</loc>
-    <lastmod>2024-07-18T05:22:52.836Z</lastmod>
+    <loc>https://valormae.com/expertise.html</loc>
+    <lastmod>2024-10-10T02:11:11.100Z</lastmod>
   </url>
   <url>
-    <loc>https://valormae.com/about.html</loc>
-    <lastmod>2024-07-18T04:09:50.336Z</lastmod>
-  </url>
-  <url>
-    <loc>https://valormae.com/gallery.html</loc>
-    <lastmod>2024-07-18T04:09:50.372Z</lastmod>
+    <loc>https://valormae.com/valormae.html</loc>
+    <lastmod>2024-10-10T02:11:10.180Z</lastmod>
   </url>
   <url>
     <loc>https://valormae.com/index.html</loc>
-    <lastmod>2024-07-18T04:09:50.372Z</lastmod>
+    <lastmod>2024-10-10T02:11:09.374Z</lastmod>
   </url>
   <url>
     <loc>https://valormae.com/contact.html</loc>
-    <lastmod>2024-07-18T04:09:50.360Z</lastmod>
+    <lastmod>2024-10-10T02:11:08.394Z</lastmod>
+  </url>
+  <url>
+    <loc>https://valormae.com/terms.html</loc>
+    <lastmod>2024-10-10T02:11:08.889Z</lastmod>
+  </url>
+  <url>
+    <loc>https://valormae.com/gallery.html</loc>
+    <lastmod>2024-10-10T02:11:09.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://valormae.com/about.html</loc>
+    <lastmod>2024-10-10T02:11:10.595Z</lastmod>
   </url>
 </urlset>

@@ -1,1 +1,19 @@
 /* css styles */
+
+
+/*-- scss:defaults --*/
+
+body {
+    background-image: url("assets/logo-light-gray.png");
+    background-color: #ffffff;
+    background-size: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*background-position: center center;*/
+    /*background-attachment: fixed;*/
+  }
+
+div h1 {
+  text-align: center
+}
