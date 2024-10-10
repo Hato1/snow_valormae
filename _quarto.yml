@@ -1,7 +1,7 @@
 project:
   type: website
   preview:
-    host: 0.0.0.0 # 192.168.1.9
+    # host: 0.0.0.0 # 192.168.1.9
     port: 7777
 
 website:

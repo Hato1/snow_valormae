@@ -9,9 +9,9 @@ listing:
 
 ![](assets/valormae-logo.png){fig-alt="headshot" fig-align="center"}
 
+![](assets/awards/UO2024WinnerButton-1.png){style="float: right; margin-left: 15px" fig-alt="headshot" fig-align="center" width="200"}
 
-Valormae is a guitarist and composer with a background in classical and jazz music. Passionate about technical prog metal, Valormae blends the harmonic richness of jazz with the thoughtful compositional techniques of classical music. The result is a unique sound that highlights both intricate musicianship and expressive depth. Through a blend of genres and styles, Valormae offers listeners a musical experience that is both technically engaging and artistically compelling.
 
-
+Founded by Snow Valormae and based in Aotearoa New Zealand, Valormae blends classical music concepts with intricate jazz harmony, complex meter, and extended range guitar techniques to create unique progressive music. Each composition is not only virtuosic and thought-provoking but also deeply autobiographical, reflecting Snow’s own human experiences. Valormae aims to evoke meaning and emotional depth, making every performance a personal expression of her journey.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/08ynbFNVDeA2ST1pPRv7Iy?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4MunqwAAseDQMIznA3KHOq?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
